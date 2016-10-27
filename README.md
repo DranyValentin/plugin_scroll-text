@@ -3,9 +3,10 @@
 ## Плагин позволяет стилизавать вертикальный скролл. 
 
 Плагин адаптивный и респонсивный.
+
 Работает:
-- Chrom
+- Chrome
 - FireFox
 - Internet Explorer
-- Safary
+- Safari
 - Yandex
